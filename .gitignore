@@ -1,0 +1,12 @@
+#folders
+chaos/
+pdfFiles/
+test/
+test123/
+
+#files
+.firstscript
+.movedata.sh
+.secfile
+.somescript
+.bash scripting stuff.odt
